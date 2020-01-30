@@ -1,0 +1,17 @@
+{
+    "name": "webpackbasic",
+    "version": "1.0.0",
+    "scripts": {
+        "build": "webpack"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "lodash": "^4.17.5"
+    },
+    "devDependencies": {
+        "webpack": "^4.20.2",
+        "webpack-cli": "^3.3.10"
+    }
+}
